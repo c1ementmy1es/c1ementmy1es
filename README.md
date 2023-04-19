@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @c1ementmy1es
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently working with Haki Yetu Organization, Kenya.
 - 📫 Reach me through kaundac9@gmail.com
 
 <!---
